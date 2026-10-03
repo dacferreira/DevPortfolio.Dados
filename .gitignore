@@ -1,0 +1,15 @@
+﻿# Configurações locais / credenciais
+flyway.user.conf
+*.local.conf
+.env
+
+# Flyway
+/jars/
+/drivers/
+
+# IDE / SO
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
