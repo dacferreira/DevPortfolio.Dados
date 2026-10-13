@@ -2,6 +2,8 @@
 
 Migrations do banco de dados do DevPortfolio, versionadas com [Flyway](https://flywaydb.org/).
 
+Banco: **MySQL 8**, banco `devportfolio` (criado pelo Flyway na primeira migração).
+
 ## Estrutura
 
 ```
